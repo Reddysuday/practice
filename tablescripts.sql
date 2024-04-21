@@ -9,3 +9,5 @@ INSERT INTO students (StudentName, GPA) VALUES
 ('Billy', 2.5),
 ('Maria', 3.3),
 ('Alice', 4.2);
+
+
