@@ -2,5 +2,4 @@ gvvvvvvv
 
 pu
 [pin
- [ihni
- bjb
+ [ih
